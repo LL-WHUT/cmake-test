@@ -1,0 +1,3 @@
+C:/Users/27873/Documents/Code/C/cmake-test/build/CMakeFiles/cmake-test.dir
+C:/Users/27873/Documents/Code/C/cmake-test/build/CMakeFiles/edit_cache.dir
+C:/Users/27873/Documents/Code/C/cmake-test/build/CMakeFiles/rebuild_cache.dir

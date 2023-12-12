@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/27873/Documents/Code/C/cmake-test/build",
+  "command": "C:\\z\\Software\\mingw64\\bin\\gcc.exe  @CMakeFiles/cmake-test.dir/includes_C.rsp -g -std=gnu2x -o CMakeFiles\\cmake-test.dir\\source\\main.c.obj -c C:\\Users\\27873\\Documents\\Code\\C\\cmake-test\\source\\main.c",
+  "file": "C:/Users/27873/Documents/Code/C/cmake-test/source/main.c",
+  "output": "CMakeFiles/cmake-test.dir/source/main.c.obj"
+},
+{
+  "directory": "C:/Users/27873/Documents/Code/C/cmake-test/build",
+  "command": "C:\\z\\Software\\mingw64\\bin\\gcc.exe  @CMakeFiles/cmake-test.dir/includes_C.rsp -g -std=gnu2x -o CMakeFiles\\cmake-test.dir\\source\\func.c.obj -c C:\\Users\\27873\\Documents\\Code\\C\\cmake-test\\source\\func.c",
+  "file": "C:/Users/27873/Documents/Code/C/cmake-test/source/func.c",
+  "output": "CMakeFiles/cmake-test.dir/source/func.c.obj"
+}
+]
