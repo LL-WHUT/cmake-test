@@ -1,0 +1,19 @@
+| taks的属性     | 属性的含义                                                           |
+| -------------- | -------------------------------------------------------------------- |
+| label          | 任务的标签名                                                         |
+| type           | 将要执行的认为属性，shell表示命令，process表示进程                   |
+| command        | 要执行的命令                                                         |
+| args           | 命令的参数                                                           |
+| group          | 定义任务所属的组，用来归类，多任务执行                               |
+| presentation   | 定义如何在用户界面处理任务输出                                       |
+| problemMatcher | 问题匹配器，用来输出警告和错误，例如$go匹配go编译器报告的问题        |
+| option         | 覆盖cwd（当前工作目录）、env（环境变量）或shell（默认shell）的默认值 |
+| runOption      | 定义任务运行的时间和方式                                             |
+| dependsOn      | 指定任务执行时候依赖于那些其他设置的指令                             |
+| dependsOrder   | 指定所依赖的任务执行的顺序                                           |
+| window         | window下的特定属性                                                   |
+| Linux          | Linux下的特定属性                                                    |
+| osx            | mac下的特定属性                                                      |
+| isBackground   | 执行的任务是否保持活动并在后台运行。                                 |
+| promptOnClose  | 当 VS Code 因正在运行的任务而关闭时是否提示用户。                    |
+| key            | 设定任务快捷键                                                       |
